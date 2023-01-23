@@ -1,9 +1,6 @@
-@import url(font-awesome.min.css);
+@import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic");
-@font-face {
- font-family:SFProDisplay;
- src:url(/assets/webfonts/SF-Pro-Display-Regular.otf)
-}
+
 html,
 body,
 div,
