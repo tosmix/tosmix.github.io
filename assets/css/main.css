@@ -146,7 +146,7 @@ input, select, textarea {
 		transition: border-bottom-color 0.2s ease, color 0.2s ease;
 		text-decoration: none;
 		color: #585858;
-		border-bottom: dotted 1px rgba(88, 88, 88, 0.5);
+		border-bottom: dotted 2px rgba(88, 88, 88, 0.5);
 	}
 
 		a:hover {
@@ -2706,15 +2706,15 @@ input, select, textarea {
 					}
 
 			.tiles article.style1 > .image:before {
-				background-color: #ffcd27;
+				background-color: #149be9;
 			}
 
 			.tiles article.style2 > .image:before {
-				background-color: #7ecaf6;
+				background-color: #ffa127;
 			}
 
 			.tiles article.style3 > .image:before {
-				background-color: #7bd0c1;
+				background-color: #a594f3;
 			}
 
 			.tiles article.style4 > .image:before {
